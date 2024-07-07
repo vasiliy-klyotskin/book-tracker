@@ -16,7 +16,7 @@ This repository contains two main categories: **programming** and **mathematics*
 ### Programming
 
 #### To-Read
-- [ ] [Learning Domain-Driven Design V. Khononov] (programming/to-read/LEARNING_DOMAIN_DRIVEN_DESIGN_V_KHONONOV.pdf)
+- [ ] [Learning Domain-Driven Design V. Khononov](programming/to-read/LEARNING_DOMAIN_DRIVEN_DESIGN_V_KHONONOV.pdf)
 - [ ] Unit Testing (programming/to-read/UNIT_TESTING_V_KHORIKOV.pdf)
 
 #### In-Progress
